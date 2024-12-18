@@ -1,0 +1,43 @@
+.nigerian-flag{
+    width: 600px;
+    height: 300px;
+    display: flex;
+    border: black solid;
+    position: static;
+}
+
+#the-first-greenhalf{
+width: 200px;
+height: 300px;
+background-color: green;
+}
+
+#the-middle-white{
+    width: 200px;
+    height: 300px;
+    background-color: white;
+    
+}
+
+#the-second-greenhalf{
+    width: 200px;
+    height: 300px;
+    background-color: green; 
+    
+}
+
+.flag-info {
+    margin: 20px 50px; 
+    font-family: Arial, sans-serif; 
+    color: #333; 
+    line-height: 1.6; 
+}
+
+.flag-info h2 {
+    color: #006400;
+}
+
+.flag-info p {
+    margin: 10px 0;
+
+}
